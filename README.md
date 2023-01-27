@@ -11,4 +11,4 @@ passengers that have similar characteristics for the purpose of
 targeting different segments for different types of mileage offers.
 
 The example includes the implementation of K-Means and hierarchical
-clustering algorithms.
+clustering algorithms in R.
